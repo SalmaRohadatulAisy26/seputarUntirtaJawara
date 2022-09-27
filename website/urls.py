@@ -4,5 +4,5 @@ from untirta.views import coba
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('untirta/', coba)
+    path('untirta/', coba),
 ]

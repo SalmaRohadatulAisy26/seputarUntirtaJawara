@@ -1,2 +1,0 @@
-# seputarUntirtaJawara
-Untirta Jawara
